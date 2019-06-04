@@ -1,5 +1,4 @@
 FROM ubuntu-latest
-MAINTAINER ZhouYifan 552094467@qq.com
 
 RUN apt-get update && apt-get upgrade -y && apt-get install -y wget
 
